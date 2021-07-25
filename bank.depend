@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627183272 source:d:\codes\bank\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<string.h>
+	<iomanip>
+	<cstdio>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<bits/stdc++.h>
+
